@@ -44,3 +44,7 @@ https://github.com/next-step/kotlin-minesweeper/tree/devtaebong
 |🚀 2단계 - 지뢰 찾기(지뢰 개수)|https://github.com/next-step/kotlin-minesweeper/pull/469|2024.12.19 ~ 2024.12.21|
 |🚀 3단계 - 지뢰 찾기(게임 실행)|https://github.com/next-step/kotlin-minesweeper/pull/480|2024.12.21 ~ 2024.12.24|
 |🚀 4단계 - 지뢰 찾기(리팩터링)|https://github.com/next-step/kotlin-minesweeper/pull/491|2024.12.26 ~ 2024.12.30|
+
+# 블로그 포스팅
+
+[TDD 사실과 오해: 클린코드 with Kotlin](https://devtaebong.tistory.com/2)
