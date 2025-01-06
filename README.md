@@ -48,3 +48,7 @@ https://github.com/next-step/kotlin-minesweeper/tree/devtaebong
 # 블로그 포스팅
 
 [TDD 사실과 오해: 클린코드 with Kotlin](https://devtaebong.tistory.com/2)
+
+# 코틀린 인 액션 스터디
+
+![스크린샷 2025-01-07 오전 2 00 54](https://github.com/user-attachments/assets/f2721071-f8fe-4733-863f-2838c80dad8b)
