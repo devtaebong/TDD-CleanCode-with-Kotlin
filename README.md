@@ -52,5 +52,3 @@ https://github.com/next-step/kotlin-minesweeper/tree/devtaebong
 # 코틀린 인 액션 스터디
 
 https://www.notion.so/17394e8f87b8809c8a18f2a9e96d182f?v=17394e8f87b881448614000c1f6d1124
-
-![스크린샷 2025-01-07 오전 2 00 54](https://github.com/user-attachments/assets/f2721071-f8fe-4733-863f-2838c80dad8b)
